@@ -21,21 +21,17 @@ This is a simple, responsive, and efficient Currency Converter application built
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/currency-converter.git](https://github.com/your-username/currency-converter.git)
+   git clone [https://github.com/Win-Min-Khant/currency-converter.git](https://github.com/Win-Min-Khant/currency-converter.git)
    cd currency-converter
 
    ```
 
 2. **Install dependencies:**
 
-   ```npm install
-
-   ```
+npm install
 
 3. **Start the development server:**
-   ```npm run dev
-
-   ```
+   npm run dev
 
 💡 Learning & Improvement
 This project was built to understand the core concepts of React hooks (useEffect, useMemo, useState) and integrating third-party APIs into a TypeScript-based project.
