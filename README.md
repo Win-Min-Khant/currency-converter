@@ -28,10 +28,15 @@ This is a simple, responsive, and efficient Currency Converter application built
 
 2. **Install dependencies:**
 
-npm install
+   ```bash
+     npm install
+   ```
 
 3. **Start the development server:**
-   npm run dev
+
+   ```bash
+     npm run dev
+   ```
 
 💡 Learning & Improvement
 This project was built to understand the core concepts of React hooks (useEffect, useMemo, useState) and integrating third-party APIs into a TypeScript-based project.
