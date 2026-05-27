@@ -21,18 +21,22 @@ This is a simple, responsive, and efficient Currency Converter application built
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/Win-Min-Khant/currency-converter.git](https://github.com/Win-Min-Khant/currency-converter.git)
-   cd currency-converter
-
+   git clone https://github.com/Win-Min-Khant/currency-converter.git
    ```
 
-2. **Install dependencies:**
+2. **Navigate to the project folder:**
+
+   ```bash
+   cd currency-converter
+   ```
+
+3. **Install dependencies:**
 
    ```bash
      npm install
    ```
 
-3. **Start the development server:**
+4. **Start the development server:**
 
    ```bash
      npm run dev
